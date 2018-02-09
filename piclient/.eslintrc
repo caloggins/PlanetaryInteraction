@@ -1,0 +1,4 @@
+// this integrates eslint w/ code editors
+{
+    "extends": "react-app"
+}
